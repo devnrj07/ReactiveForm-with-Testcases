@@ -1,0 +1,6 @@
+projectKey=reactive-form
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/reactive-form
+ceTaskId=AWcKEnHx7Pby_2hkeALB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWcKEnHx7Pby_2hkeALB

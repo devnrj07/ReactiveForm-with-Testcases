@@ -1,0 +1,29 @@
+body{
+    background: skyblue;
+}
+
+.form-group{
+    
+}
+label{
+    margin:5px 60px;
+}
+.form-control{
+    display: block;
+    margin: 0 auto;
+    
+
+    border: 1px solid black;
+    width: 40%;
+
+}
+
+input[type=radio]{
+    display: inline-flex;
+     left: 10px;    
+     width: 1em;
+     height: 1em;
+}
+.validations > span{
+    display: block;
+}
