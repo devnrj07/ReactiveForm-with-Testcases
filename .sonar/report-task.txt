@@ -1,0 +1,6 @@
+projectKey=company:reactive-ui
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/company:reactive-ui
+ceTaskId=AWc9Y9C_qyEnci4XRFrG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWc9Y9C_qyEnci4XRFrG
